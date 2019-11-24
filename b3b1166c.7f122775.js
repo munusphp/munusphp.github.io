@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{103:function(e){e.exports=JSON.parse('{"id":"collections","title":"Collections","sidebar_label":"Collections","description":"## Traversable","source":"@site/docs/collections.md","permalink":"/docs/collections","sidebar":"docs","previous":{"title":"Values","permalink":"/docs/values"}}')}}]);
