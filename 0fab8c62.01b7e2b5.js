@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{130:function(o){o.exports=JSON.parse('{"id":"option","title":"Option","sidebar_label":"Option","description":"# Option","source":"@site/docs/option.md","permalink":"/docs/option","sidebar":"docs","next":{"title":"TryTo","permalink":"/docs/tryto"},"previous":{"title":"Traversable","permalink":"/docs/traversable"}}')}}]);

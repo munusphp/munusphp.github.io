@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{153:function(o){o.exports=JSON.parse('{"id":"tryto","title":"TryTo","sidebar_label":"TryTo","description":"# TryTo","source":"@site/docs/tryto.md","permalink":"/docs/tryto","sidebar":"docs","next":{"title":"Either","permalink":"/docs/either"},"previous":{"title":"Option","permalink":"/docs/option"}}')}}]);
