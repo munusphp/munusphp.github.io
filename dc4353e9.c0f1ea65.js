@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[29],{160:function(e){e.exports=JSON.parse('{"id":"map","title":"Map","sidebar_label":"Map","description":"# Map","source":"@site/docs/map.md","permalink":"/docs/map","sidebar":"docs","next":{"title":"Set","permalink":"/docs/set"},"previous":{"title":"Lazy","permalink":"/docs/lazy"}}')}}]);
